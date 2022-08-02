@@ -2,7 +2,7 @@
   Pokemon Slider
 </h1>
 
-![6oog2u](https://user-images.githubusercontent.com/93893533/182402441-d8e6d566-8ffa-4083-8a1a-de86fb54cdb3.gif)
+![GIF Maker - Imgflip - Google Chrome 02_08_2022 11_49_41](https://user-images.githubusercontent.com/93893533/182404368-f437c99e-94d6-4e05-a663-546cb759379b.png)
 
 <br />
 
