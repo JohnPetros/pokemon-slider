@@ -10,7 +10,7 @@
 
 Projeto de um carrossel contendo cards pokemons.
 
- <h3 align="center"><a href="https://johnpetros.github.io/rocketnews/">Veja a Página funcionando 👀</a></h3>
+ <h3 align="center"><a href="https://johnpetros.github.io/pokemon-slider/">Veja a Página funcionando 👀</a></h3>
 
 ## 🛠️ Tecnologias
 
