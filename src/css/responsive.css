@@ -1,0 +1,36 @@
+@media (max-width: 620px) {
+    .pokemon-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-arrow {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pokemons-list {
+        height: 480px;
+    }
+
+    .card .pokemon-image {
+        max-height: 230px;
+    }
+
+    .card .information .name {
+        max-width: 50%;
+        font-size: 14px;
+    }
+
+    .card .information .life {
+        font-size: 14px;
+    }
+
+    .card .description .description-text {
+        max-height: 85px;
+    }
+}
